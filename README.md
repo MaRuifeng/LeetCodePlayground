@@ -4,6 +4,9 @@ A playground to sharpen my programming and problem solving skills via [LeetCode]
 
 ## List of problems
 
+### Easy
+* [001. Two sum](src/main/java/easy/P001TwoSum/TwoSum.java)
+
 ### Medium
 * [792. Number of matching Subsequences](src/main/java/medium/P792NumberOfMatchingSubSeqs/NumberOfMatchingSubSequences.java)
 
