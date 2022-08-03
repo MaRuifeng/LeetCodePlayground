@@ -1,5 +1,12 @@
 package medium.P002AddListNums;
 
+/**
+ * Add two numbers represented in lists.
+ * <p>
+ * Author: Ruifeng Ma
+ * Date: 2022-Aug-03
+ */
+
 public class AddTwoNums {
     /**
      * Definition for singly-linked list.
