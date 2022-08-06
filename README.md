@@ -9,6 +9,9 @@ A playground to sharpen my programming and problem solving skills via [LeetCode]
 
 ### Medium
 * [792. Number of matching Subsequences](src/main/java/medium/P792NumberOfMatchingSubSeqs/NumberOfMatchingSubSequences.java)
+* [002. Add two numbers](src/main/java/medium/P002AddListNums/AddTwoNums.java)
+* [003. Longest substring without repeats](src/main/java/medium/P003LongestSubstrWithoutRepeats/LongestSubstringWithoutRepeats.java)
+* [236. Lowest common ancestor of two nodes in a binary tree](src/main/java/medium/P236BinaryTreeLCA/BinaryTreeLCA.java)
 
 ## Dev notes
 
