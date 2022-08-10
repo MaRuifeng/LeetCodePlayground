@@ -2,6 +2,13 @@ package easy.P004MedianOfTwoSortedArray;
 
 import java.util.Arrays;
 
+/**
+ * Median of 2 sorted arrays.
+ *
+ * @author Ruifeng Ma
+ * @since 2022-Aug-07
+ */
+
 public class MedianOfTwoSortedArray {
 
     /**
