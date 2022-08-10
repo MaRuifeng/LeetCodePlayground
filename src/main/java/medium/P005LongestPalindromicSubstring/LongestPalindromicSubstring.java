@@ -15,6 +15,12 @@ import java.util.Stack;
 public class LongestPalindromicSubstring {
 
     /**
+     * Dynamic programming.
+     * See this lovely solution with nice comments.
+     * https://leetcode.com/problems/longest-palindromic-substring/discuss/2921/Share-my-Java-solution-using-dynamic-programming/3570
+     */
+
+    /**
      * Greedy.
      * Iterate through the character array of the string, use two indices to keep to the head and tail of each
      * local palindrome, and look for the local maximum. Compare all local maxima and find the global maximum.
