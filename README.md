@@ -7,6 +7,7 @@ A playground to sharpen my programming and problem solving skills via [LeetCode]
 ### Easy
 * [001. Two sum](src/main/java/easy/P001TwoSum/TwoSum.java)
 * [004. Median of two sorted arrays](src/main/java/easy/P004MedianOfTwoSortedArray/MedianOfTwoSortedArray.java)
+* [496. Next greater element I](src/main/java/easy/P496NextGreaterElementI/NextGreaterElementI.java)
 
 ### Medium
 * [792. Number of matching Subsequences](src/main/java/medium/P792NumberOfMatchingSubSeqs/NumberOfMatchingSubSequences.java)
