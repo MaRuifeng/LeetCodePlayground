@@ -16,6 +16,7 @@ A playground to sharpen my programming and problem solving skills via [LeetCode]
 * [005. Longest palindromic substring](src/main/java/medium/P005LongestPalindromicSubstring/LongestPalindromicSubstring.java)
 * [006. Zigzag conversion](src/main/java/medium/P006ZigZagConversion/ZigzagConversion.java)
 * [236. Lowest common ancestor of two nodes in a binary tree](src/main/java/medium/P236BinaryTreeLCA/BinaryTreeLCA.java)
+* [503. Next greater element II](src/main/java/medium/P503NextGreaterElementII/NextGreaterElementII.java)
 
 ## Dev notes
 
